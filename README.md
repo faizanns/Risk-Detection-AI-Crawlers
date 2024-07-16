@@ -60,3 +60,5 @@ Certainly! Breaking down the project into sequential milestones with nested sub-
 - **Feedback and Iterative Improvement:** Continuously gather feedback from stakeholders and users to refine features, enhance security capabilities, and prioritize future enhancements.
 
 By breaking down the project into these nested milestones, you can systematically build and test each component of your cybersecurity solution using microservices architecture. This approach ensures that each milestone is manageable, testable, and contributes to the overall success of the project, even when working alone.
+
+Source of info: https://chatgpt.com/share/029a8eed-0bf5-4c4f-82f8-89de91c8c84b
